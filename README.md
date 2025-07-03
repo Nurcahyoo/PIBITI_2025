@@ -1,4 +1,4 @@
-# EduLearn Platform - Final Project
+# Final Project
 
 ## Informasi Proyek
 
